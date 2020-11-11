@@ -1,4 +1,4 @@
-# tasks-node-ts
+# api-tasks
 
 API simples feito em Node.js + TypeScript + TypeORM + JWT para registrar usuários podendo criar suas listas de tarefas
 
